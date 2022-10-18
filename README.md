@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzhengfa</h1>
 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremyhzf.jeremyhzf&left_color=green&right_color=red) -->
+
 - 👨‍💻 All of my projects are available at [@jeremyhzf](https://github.com/jeremyhzf)
 
 - 📝 I regularly write articles on [Jeremy Blog](https://jeremyhzf.com/)
