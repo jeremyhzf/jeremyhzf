@@ -25,4 +25,4 @@
 </p>
 
 <!-- 统计图: https://github.com/anuraghazra/github-readme-stats -->
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremyhzf&show_icons=true&theme=vue_dark" alt="jeremyhzf" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremyhzf&show_icons=true&theme=vue-dark" alt="jeremyhzf" /></p>
