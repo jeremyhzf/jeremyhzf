@@ -24,5 +24,5 @@
 	<a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremyhzf&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
+<!-- 统计图: https://github.com/anuraghazra/github-readme-stats -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeremyhzf&show_icons=true&theme=github_dark" alt="jeremyhzf" /></p>
