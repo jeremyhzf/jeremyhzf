@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzhengfa</h1>
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/jeremyhzf](https://github.com/jeremyhzf)
 
 - 📝 I regularly write articles on [https://jeremyhzf.com/](https://jeremyhzf.com/)
